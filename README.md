@@ -6,11 +6,11 @@ You can launch FDF with one map in argument :
 
 You can also launch it without argument and write your own map in the console.  
 > ./fdf  
-> >0 0 0 0 0  
-> >0 10 10 10 0  
-> >0 10 20 10 0  
-> >0 10 10 10 0  
-> >0 0 0 0 0  
+> \>0 0 0 0 0  
+> \>0 10 10 10 0  
+> \>0 10 20 10 0  
+> \>0 10 10 10 0  
+> \>0 0 0 0 0  
   
 Once it has been launched, you can use the keyboard to change the representation :  
   
