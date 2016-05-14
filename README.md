@@ -6,7 +6,7 @@ You can launch FDF with one map in argument :
 
 You can also launch it without argument and write your own map in the console.  
   
-Once it has been launched, you can use keyboard to change the representation :  
+Once it has been launched, you can use the keyboard to change the representation :  
   
 Q-E : rotation (on the Y axis).  
 A-D : rotation (on the Z axis).  
