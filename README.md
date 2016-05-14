@@ -4,13 +4,16 @@
 You can launch FDF with one map in argument :  
 > ./fdf test_maps/mars.fdf  
 
-You can also launch it without argument and write your own map in the console.  
+You can also launch it without argument to write your own map in the console.
+You have to use CTRL-D when you have finished.  
 > ./fdf  
-> \>0 0 0 0 0  
-> \>0 10 10 10 0  
-> \>0 10 20 10 0  
-> \>0 10 10 10 0  
-> \>0 0 0 0 0  
+> Write your own map :  
+> 0 0 0 0 0  
+> 0 10 10 10 0  
+> 0 10 20 10 0  
+> 0 10 10 10 0  
+> 0 0 0 0 0  
+> ^D  
   
 Once it has been launched, you can use the keyboard to change the representation :  
   
